@@ -60,9 +60,9 @@ Uma das maiores facilidades incluídas nesta versão do projeto é a **Feature d
 
 - **Como funciona antes:** Os notebooks foram estruturados de forma que exigem que o utilizador monte seu disco (Google Drive Pessoal, `drive.mount('/content/drive')`), para fazer o salvamento e uploud dos arquivos de CSV e Modelos.
 
-```markdown
+
 - **O que foi adicionado:** A dependência de montagem de drive pessoal foi substituída pelo uso da biblioteca `gdown`, dando a opção de baixar os arquivos automaticamente através de links públicos integrados diretamente ao código. (do próprio autor do projeto)
-```
+
 
 **Benefícios:**
 
@@ -70,6 +70,6 @@ Uma das maiores facilidades incluídas nesta versão do projeto é a **Feature d
 - **Não gasta armazenamento pessoal:** O dataset não precisa ocupar espaço no seu Google Drive.
 - **Portabilidade perfeita:** Outros cientistas de dados e avaliadores podem reproduzir seus testes e resultados com 1 clique.
 
-```markdown
+
 > **Nota:** Nos notebooks de **EDA** e **Treinamento**, a montagem do Google Drive permanece obrigatória para o salvamento dos modelos e dataset processado.
-```
+
