@@ -1,0 +1,6 @@
+Os modelos foram muito pesados para serem salvos via repositorio do github, por isso não foram salvos neste diretorio.
+
+Aqui estão os links para download dos modelos:
+
+- DistilBERT: https://drive.google.com/drive/folders/1JR-hJ5aPJ6pT5tlIiRWzBN8hzBnv_ORF?usp=sharing
+- DistilRoBERTa: https://drive.google.com/drive/folders/1ogqW6Uf_1bqsmhMokVes3yW0U4Ib6opU?usp=sharing
